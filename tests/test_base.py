@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from pgsql_3d_points.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "pgsql_3d_points"

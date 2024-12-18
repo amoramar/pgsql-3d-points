@@ -1,4 +1,4 @@
-"""CLI interface for project_name project.
+"""CLI interface for pgsql_3d_points project.
 
 Be creative! do whatever you want!
 
@@ -12,7 +12,7 @@ Be creative! do whatever you want!
 def main():  # pragma: no cover
     """
     The main function executes on commands:
-    `python -m project_name` and `$ project_name `.
+    `python -m pgsql_3d_points` and `$ pgsql_3d_points `.
 
     This is your program's entry point.
 
